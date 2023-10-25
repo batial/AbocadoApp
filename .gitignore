@@ -6,3 +6,6 @@ node_modules/
 
 # Ignore .env files (containing environment variables)
 .env
+
+# Ignore .next/ directory
+.next/
